@@ -21,6 +21,7 @@
   display: flex;
   justify-content: right;
   align-items: center;
+  overflow: hidden;
 }
 
 .clear-button{
